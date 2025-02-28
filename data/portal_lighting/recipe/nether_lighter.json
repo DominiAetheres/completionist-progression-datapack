@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CB",
+        "S"
+    ],
+    "key":{
+        "C": [
+            "minecraft:chorus_fruit"
+        ],
+        "B": [
+            "minecraft:breeze_rod"
+        ],
+        "S": [
+            "minecraft:sculk_catalyst"
+        ]
+    },
+    "result": {
+        "id": "minecraft:flint_and_steel",
+        "count": 1,
+        "components": {
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": "\"Nether Lighter\"",
+            "minecraft:rarity": "rare"
+        }
+    }
+}
